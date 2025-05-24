@@ -3,6 +3,7 @@ Dataset Link: https://www.kaggle.com/datasets/mdmahadihassannayem/cleveland-hear
 
 You must run the dataset and application file together in a folder!!!
 
+![1747693461477](https://github.com/user-attachments/assets/cd7e69b3-112a-4e24-bc2a-eabae6c1de58)
 
 
 
