@@ -18,3 +18,5 @@ GNB
 Deeplearning
 ![logisticR](https://github.com/user-attachments/assets/882be706-8eb7-4c72-9956-31fc2c21a128)
 LogisticReg
+![DecisionTreeClassifier](https://github.com/user-attachments/assets/a6973b87-bd07-4263-a2af-b773659bbc67)
+DecisionTreeClass
